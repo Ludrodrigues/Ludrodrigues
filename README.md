@@ -14,10 +14,13 @@
 
 
 ### GitHub Stats ⚡
-<div>
-<a href="https://github.com/Ludrodrigues">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ludrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ludrodrigues&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ludrodrigues&show_icons=true&theme=dracula&line_height=27" alt="**LUD** github stats"/>
+</a>
 
 
 
